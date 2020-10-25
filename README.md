@@ -1,2 +1,2 @@
 # 1semestr-proceduralProgramming
-A bunch of home works
+A bunch of homeworks
